@@ -1,10 +1,9 @@
-
 <html>
 <body>
 
 <h1> Pavel Leukhin </h1> 
 <hr>
-<h3>email: pavelleukhin@gmail.com </h3>
+<h3> email: pavelleukhin@gmail.com </h3>
 <h3> </h3>
 <ul>
   <li> I am a ambitious person ready to learn new skills and improve existing ones. </li>

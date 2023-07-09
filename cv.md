@@ -14,7 +14,7 @@
 
 <hr>
 <h2> email: pavelleukhin@gmail.com </h2>
-<p> </p>
+<hr>
 <ul>
   <li> I am a ambitious person ready to learn new skills and improve existing ones. </li>
   <li> My skills: python, html </li>

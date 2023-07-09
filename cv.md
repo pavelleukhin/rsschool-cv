@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 </head> 
+
 <body>
 <header>
 <img src="270579689.jpg" alt="my photo" align="left" width="256" height="160">
@@ -14,7 +15,7 @@
 <h2> email: pavelleukhin@gmail.com </h2>
 <ul>
   <li> I am a ambitious person ready to learn new skills and improve existing ones. </li>
-  <li> My skills: python, html, css </li>
+  <li> My skills: python, html </li>
   <li> I've been a hotline employee for two years. </li>
 </ul>
 <h2> I have a graduate degree in information security. </h2>
@@ -25,8 +26,15 @@
 </main>
 
 <footer>
-<p> @2023 <a href="https://github.com/pavelleukhin">github.com/pavelleukhin </a> </p>
-<p> <a href="https://rs.school/js-stage0/">JavaScript/Front-end. Stage 0</a> </p>
+
+<img src="rs_school_js.svg" alt="my photo 2" width="256" height="160"> 
+<p> 
+@2023 
+<a href="https://github.com/pavelleukhin" >github.com/pavelleukhin </a> 
+<a href="https://rs.school/js-stage0/" >JavaScript/Front-end. Stage 0</a> 
+</p>
+
+
 </footer>
 
 </body>

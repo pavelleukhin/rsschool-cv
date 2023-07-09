@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <title>CV</title>
-  </head>  
+  <meta charset="utf-8">
+  </head> 
 <body>
-
+<header>
+<img src="270579689.jpg" alt="my photo" align="left" width="256" height="160">
 <h1> Pavel Leukhin </h1> 
+</header>
 <hr>
 <h2> email: pavelleukhin@gmail.com </h2>
 <ul>
@@ -19,3 +21,4 @@
 
 </body>
 </html>
+

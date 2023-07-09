@@ -5,12 +5,14 @@
 </head> 
 
 <body>
+
 <header>
 <img src="270579689.jpg" alt="my photo" align="left" width="256" height="160">
 <h1> Pavel Leukhin </h1> 
 </header>
   
 <main>
+
 <hr>
 <h2> email: pavelleukhin@gmail.com </h2>
 <ul>
@@ -26,14 +28,14 @@
 </main>
 
 <footer>
-
-<img src="rs_school_js.svg" alt="my photo 2" width="256" height="160"> 
+  
+<a href="https://rs.school/js-stage0/" >
+  <img src="rs_school_js.svg" alt="my photo 2" width="256" height="160"> 
+</a> 
 <p> 
 @2023 
 <a href="https://github.com/pavelleukhin" >github.com/pavelleukhin </a> 
-<a href="https://rs.school/js-stage0/" >JavaScript/Front-end. Stage 0</a> 
 </p>
-
 
 </footer>
 
